@@ -17,5 +17,4 @@ function Check() {
         return false;
     }
     return true;
-    
 }

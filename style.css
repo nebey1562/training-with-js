@@ -98,7 +98,6 @@ nav ul li a:hover{
 }
 #Submits{
     margin:5rem;
-    flex-direction: row;
     font-size: large;
     padding: 1.5rem;;
     background-color: rgb(19, 75, 112);
